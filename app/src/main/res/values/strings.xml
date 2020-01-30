@@ -1,0 +1,10 @@
+<resources>
+    <!-- App title -->
+    <string name="app_name">DiceRoller</string>
+
+    <!-- Button label -->
+    <string name="roll_label">Roll</string>
+    <string name="sameDay">Same Day messenger service</string>
+    <string name="nextDay">Next day ground delivery</string>
+    <string name="pickUp">Pick up</string>
+</resources>
